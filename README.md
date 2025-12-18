@@ -61,7 +61,7 @@ Here are all of my public Flutter repositories on GitHub:
 ---
 
 ### ​ Get in Touch
- 
+- **LinkedIn**: (https://www.linkedin.com/in/a3tofdev/)  
 - **Email**: ia3toofdev224@gmail.com  
 
 Thanks for stopping by! 🚀
